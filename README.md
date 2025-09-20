@@ -61,26 +61,26 @@ Go to EC2 Instances.
 Select your instance → Instance State → Terminate.
 
 # Output:
-## S3
-# Bucket creating:
+# S3
+## Bucket creating:
 
 
 <img width="2559" height="1458" alt="Screenshot 2025-09-20 153620" src="https://github.com/user-attachments/assets/4ddfc0d7-56ab-4058-951b-4d64676b2bdf" />
 
-# Folder Creation:
+## Folder Creation:
 
 <img width="2559" height="1462" alt="Screenshot 2025-09-20 153559" src="https://github.com/user-attachments/assets/c6fcbf64-1d4e-4664-bcad-47abd5e4135a" />
 
-# File Uploading:
+## File Uploading:
 
 <img width="2554" height="1529" alt="Screenshot 2025-09-20 153531" src="https://github.com/user-attachments/assets/6ea7e414-9ae3-4b05-885e-9149be924cc7" />
 
-## EC2
-# Creating Instance:
+# EC2
+## Creating Instance:
 
 <img width="2558" height="1529" alt="Screenshot 2025-09-20 153827" src="https://github.com/user-attachments/assets/bcf7392e-62ac-4dfe-bd75-53d6679e30d1" />
 
-# Launched Instance:
+## Launched Instance:
 
 <img width="2556" height="1530" alt="Screenshot 2025-09-20 154253" src="https://github.com/user-attachments/assets/f560fb78-3ec6-4bd0-bb3f-ab9717933d1f" />
 
